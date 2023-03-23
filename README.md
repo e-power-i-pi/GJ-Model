@@ -6,4 +6,7 @@ The power of the resonant axion signal is directly proportional to the probabili
 These plasmic effects are governed by the charges present, which is given by GJ charge density distribution. 
 Therefore, these charge depleated regions are of prime interest to us as the probability and intensity of axion signal that could come from these zones would have a higher value.
 
-The first graphic image ("
+The first graphic image (|nGJ| vs time.gif) is a simple gif that shows the rotation of charges with time. 
+The second graphics (|nGJ vs alpha.gif) shows the distribution of charge density as a function of misalignment angle.
+This concludes that stars with a higher misalignment would have a higher change of resonant conversion, which thus reflects from our calculation (as depicted in the colourbar to the left). 
+Finally, the observing angle is also of great importance to us as it would decide whether we're looking at a charge rich or charge depleated region. 
